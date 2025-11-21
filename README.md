@@ -4,16 +4,15 @@
 </p>
 
 # Índice 
-* [Título](#Título-e-Imagem-de-capa)
+* [Título](#Título)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Funcionalidades](#Funcionalidades)
+* [Estrutura inicial do projeto](#estrutura-inicia-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Desenvolvedor do Projeto](#desenvolvedor)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
   
@@ -26,7 +25,7 @@
 <br>
 
 
-# 📌 Funcionalidades previstas
+# 📌 Funcionalidades
 <ul>
   <li>Tela para listar produtos</li>
   <li>Tela para criar novos produtos</li>
