@@ -2,27 +2,10 @@
 <p>
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-
-# Índice 
-* [Título](#Título)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades](#Funcionalidades)
-* [Estrutura inicial do projeto](#estrutura-inicia-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Desenvolvedor do Projeto](#desenvolvedor)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
   
 
 # Descrição do Projeto 
 <p>Este repositório contém a aplicação front-end do sistema de cadastro e gerenciamento de produtos. O projeto foi desenvolvido utilizando Angular, com o objetivo de construir uma interface moderna, organizada e preparada para integração com uma API backend.</p>
-
-<h3> :construction: Projeto em construção :construction:</h3>
-
-<br>
 
 
 # 📌 Funcionalidades
