@@ -5,7 +5,7 @@
   
 
 # Descrição do Projeto 
-<p>(EM DESENVOLVIMENTO) Este repositório contém a aplicação front-end do sistema de cadastro e gerenciamento de produtos. O projeto foi desenvolvido utilizando Angular, com o objetivo de construir uma interface moderna, organizada e preparada para integração com uma API backend.</p>
+<p>Este repositório contém a aplicação front-end do sistema de cadastro e gerenciamento de produtos. O projeto foi desenvolvido utilizando Angular, com o objetivo de construir uma interface moderna, organizada e preparada para integração com uma API backend.</p>
 
 
 # 📌 Funcionalidades
