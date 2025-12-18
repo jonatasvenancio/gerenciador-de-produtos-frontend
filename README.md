@@ -43,6 +43,6 @@ src/
 </ul>
 
 
-# Autor
+# Desenvolvedor
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/166184825?s=400&u=3eeb543924f0a16be04417f9b33ab7d3fdd912a7&v=4" width=115><br><sub>Jônatas Venâncio de Oliveira</sub>](https://github.com/jonatasvenancio) |
 | :---: |
